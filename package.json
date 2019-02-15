@@ -1,5 +1,5 @@
 {
-  "name": "fastify-response-time",
+  "name": "@graphistry/fastify-response-time",
   "version": "1.1.0",
   "description": "Add X-Response-Time header at each request (in ms) for Fastify",
   "main": "index.js",
